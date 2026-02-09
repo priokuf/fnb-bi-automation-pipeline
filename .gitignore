@@ -1,0 +1,22 @@
+# Raw data files (never commit real data)
+*.csv
+*.txt
+*.xlsx
+*.xls
+
+# Logs & temp files
+*.log
+*.tmp
+*.bak
+
+# Secrets / configs
+.env
+*.config
+
+# Windows system files
+Thumbs.db
+Desktop.ini
+
+# Build / tool artifacts
+*.ispac
+*.dtproj.user
