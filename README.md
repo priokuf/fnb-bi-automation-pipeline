@@ -13,3 +13,6 @@ The solution emphasizes reliability, automation, and operational monitoring — 
 - Data mart development for reporting use cases  
 - Semantic modeling using SQL Server Analysis Services (SSAS)  
 - Email notification for success and failure monitoring
+
+## 🔄 Architecture Overview
+![BI Pipeline Architecture](diagrams/bi_pipeline_architecture.png)
