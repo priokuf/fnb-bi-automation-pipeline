@@ -14,5 +14,5 @@ The solution emphasizes reliability, automation, and operational monitoring — 
 - Semantic modeling using SQL Server Analysis Services (SSAS)  
 - Email notification for success and failure monitoring
 
-## 🔄 Architecture Overview
+## Architecture Overview
 ![BI Pipeline Architecture](diagrams/bi_pipeline_architecture.png)
